@@ -70,8 +70,7 @@ from sklearn.metrics import roc_auc_score, f1_score, accuracy_score
 #       GPT-OSS-20B   →  N_LAYERS = 24
 
 BASE_FOLDER = "figurative_emb"   # ← folder of figurative language embeddings
-BASIS_PATH  = "diffmeans.npy"    # ← concreteness axis (from compute_diffmean.py
-                                 #   or compute_svd_subspace.py)
+BASIS_PATH  = "subspace_k1.npy"    # ← concreteness axis (computed by svd)
 N_LAYERS    = 32                 # ← set to match the model used for extraction
 TRAIN_RATIO = 0.80               # fraction of data used to learn the threshold
 EPS         = 1e-8               # small constant for safe L2 normalisation
