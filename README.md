@@ -3,8 +3,8 @@
 This repository contains the code for the paper:
 
 > **Exploring Concreteness Through a Figurative Lens**
-> Saptarshi Ghosh, Tianyu Jiang
-> arXiv:2604.18296 · [https://arxiv.org/abs/2604.18296](https://arxiv.org/abs/2604.18296)
+
+[https://arxiv.org/abs/2604.18296](https://arxiv.org/abs/2604.18296)
 
 ---
 
